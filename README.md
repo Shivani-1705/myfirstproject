@@ -1,1 +1,1 @@
-# myfirstproject and my first commit from feature 1
+# myfirstproject and updated the first commit message
